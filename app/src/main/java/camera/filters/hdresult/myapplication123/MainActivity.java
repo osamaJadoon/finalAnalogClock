@@ -7,7 +7,7 @@ import androidx.viewpager.widget.ViewPager;
 
 import com.google.android.material.tabs.TabItem;
 import com.google.android.material.tabs.TabLayout;
-
+//Abdullah has tested it//
 
 
 public class MainActivity extends AppCompatActivity {
