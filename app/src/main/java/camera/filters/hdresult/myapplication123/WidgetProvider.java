@@ -80,6 +80,7 @@ public class WidgetProvider extends AppWidgetProvider {
             filter.addAction(Intent.ACTION_TIMEZONE_CHANGED);
             registerReceiver(mReceiver, filter);
         }
+        // osama jadoon
 
         @Override
         public void onDestroy() {
